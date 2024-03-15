@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export const Navbar = () => {
   return (
     <>
@@ -17,7 +19,9 @@ export const Navbar = () => {
           >
             <span className="navbar-toggler-icon"></span>
           </button>
-          <button className="btn btn-outline-light">Add User</button>
+          <Link className="btn btn-outline-light" to={"/adduser"}>
+            Add User
+          </Link>
         </div>
       </nav>
     </>
