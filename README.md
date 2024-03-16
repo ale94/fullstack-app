@@ -2,16 +2,6 @@
 
 "Este proyecto básico muestra cómo conectar un frontend desarrollado en React con un backend creado en Spring. Es un ejemplo sencillo de cómo integrar estas tecnologías para construir una aplicación web completa."
 
-## Tabla de Contenidos
-
-1. [Tecnologías](#tecnologías)
-2. [Instalación](#instalación)
-3. [Uso](#uso)
-4. [Capturas de Pantalla](#capturas-de-pantalla)
-5. [Contribución](#contribución)
-6. [Licencia](#licencia)
-
-
 ## Tecnologías
 
 <div>
@@ -28,29 +18,8 @@
 	</table>
 </div>
 
-## Instalación
-
-Instrucciones detalladas sobre cómo instalar y configurar el proyecto localmente.
-
-## Uso
-
-Explicación sobre cómo usar el proyecto. Esto podría incluir ejemplos de código o comandos.
-
 ## Capturas de Pantalla
 
 Inserta capturas de pantalla del proyecto en acción.
 
-![Captura de Pantalla 1](/ruta/a/imagen1.png)
-![Captura de Pantalla 2](/ruta/a/imagen2.png)
-
-## Contribución
-
-Instrucciones sobre cómo contribuir al proyecto, incluyendo pautas de estilo, proceso de solicitud de extracción, etc.
-
-## Licencia
-
-Indica la licencia bajo la cual se distribuye el proyecto.
-
----
-
-Creado por [Tu Nombre](enlace-a-tu-página-web). ¡Gracias por usar este proyecto!
+![Captura de Pantalla 1](https://i.postimg.cc/tJj3QPDH/1.png)
