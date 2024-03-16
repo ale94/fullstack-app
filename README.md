@@ -1,6 +1,6 @@
-# Nombre del Proyecto
+# Fullstack React & Spring
 
-Breve descripción del proyecto.
+"Este proyecto básico muestra cómo conectar un frontend desarrollado en React con un backend creado en Spring. Es un ejemplo sencillo de cómo integrar estas tecnologías para construir una aplicación web completa."
 
 ## Tabla de Contenidos
 
