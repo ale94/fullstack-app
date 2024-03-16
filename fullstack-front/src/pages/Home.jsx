@@ -27,7 +27,7 @@ export const Home = () => {
         <table className="table border shadow">
           <thead>
             <tr className="text-center">
-              <th scope="col">#</th>
+              <th scope="col">N°</th>
               <th scope="col">Name</th>
               <th scope="col">Username</th>
               <th scope="col">Email</th>
@@ -38,7 +38,7 @@ export const Home = () => {
             {users.map((user, index) => {
               return (
                 <>
-                  <tr>
+                  <tr className="text-center">
                     <th scope="row" key={index}>
                       {index + 1}
                     </th>
