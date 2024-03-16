@@ -18,8 +18,6 @@
 	</table>
 </div>
 
-## Capturas de Pantalla
-
-Inserta capturas de pantalla del proyecto en acción.
+## Captura de Pantalla
 
 ![Captura de Pantalla 1](https://i.postimg.cc/tJj3QPDH/1.png)
